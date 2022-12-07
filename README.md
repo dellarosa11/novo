@@ -1,1 +1,2 @@
 # novo
+print("Hello word")
